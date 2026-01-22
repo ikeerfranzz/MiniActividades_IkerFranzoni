@@ -1,0 +1,160 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MiniActividades/_MainMenu/MainMenu.unity
+    guid: 5403341129e67e144a6e219a622731ef
+  - enabled: 1
+    path: Assets/MiniActividades/E01/E01.unity
+    guid: 69f94ce2f6094ca46ab0e9cd6cf0c498
+  - enabled: 1
+    path: Assets/MiniActividades/E02/E02.unity
+    guid: fcbd27a70ec34df409be2fbfb8279741
+  - enabled: 1
+    path: Assets/MiniActividades/E03/E03.unity
+    guid: 27990cdcf72bd9340b24ee05e4a231ff
+  - enabled: 1
+    path: Assets/MiniActividades/E04/E04.unity
+    guid: b3602ea5708e1764aa6c9b9ba37ccbd8
+  - enabled: 1
+    path: Assets/MiniActividades/E05/E05.unity
+    guid: 1421b3ddb2290104fa63083b156d253e
+  - enabled: 1
+    path: Assets/MiniActividades/E06/E06.unity
+    guid: 7a99161dc76a77e4fb548a9e0ba1c5e2
+  - enabled: 1
+    path: Assets/MiniActividades/E07/E07.unity
+    guid: a98f429f99bd4c44a939c56ac6df446c
+  - enabled: 1
+    path: Assets/MiniActividades/E08/E08.unity
+    guid: 249a88a8ca0a9954a859304b06ff45f2
+  - enabled: 1
+    path: Assets/MiniActividades/E09/09.unity
+    guid: 96c466f6463fedd4fa2771b832e08f57
+  - enabled: 1
+    path: Assets/MiniActividades/E10/E10.unity
+    guid: 22798f19315ccba43a1f2da92dcc6e28
+  - enabled: 1
+    path: Assets/MiniActividades/E11/E11.unity
+    guid: 1bec4cec29c99ef448ca6a5dafe988f1
+  - enabled: 1
+    path: Assets/MiniActividades/E12/E12.unity
+    guid: ef6efdd6a9d482346b66f7d4da83556c
+  - enabled: 1
+    path: Assets/MiniActividades/E13/E13.unity
+    guid: 818a1ee7c5ae5a346a78ea801d2eb73b
+  - enabled: 1
+    path: Assets/MiniActividades/E14/E14.unity
+    guid: c899b9a7b841abf4f83bfc09f9c45b0d
+  - enabled: 1
+    path: Assets/MiniActividades/E15/E15.unity
+    guid: d903340808e2cfe4d920cb9f3daba847
+  - enabled: 1
+    path: Assets/MiniActividades/E16/E16.unity
+    guid: a0237c5d034f7fc4496a57d109055b65
+  - enabled: 1
+    path: Assets/MiniActividades/E17/E17.unity
+    guid: c21cc841ff5ab43478977660360cf60c
+  - enabled: 1
+    path: Assets/MiniActividades/E19/E19.unity
+    guid: 59e5d97a745bd3f429f04024da60a81e
+  - enabled: 1
+    path: Assets/MiniActividades/E20/E20.unity
+    guid: 1398f74306275994e9f58a48c2c5f772
+  - enabled: 1
+    path: Assets/MiniActividades/E21/E21.unity
+    guid: ffd47dcf3489bdf4e8784e39836b80de
+  - enabled: 1
+    path: Assets/MiniActividades/E23/E23.unity
+    guid: fc56c1c5b5e77ec4aba1a5251750cfe0
+  - enabled: 1
+    path: Assets/MiniActividades/E24/E24.unity
+    guid: 2cd297aedb935394ea64b1f6c083360a
+  - enabled: 1
+    path: Assets/MiniActividades/E25/E25.unity
+    guid: d2b86ec931be8c54b847915104672eda
+  - enabled: 1
+    path: Assets/MiniActividades/E26/E26.unity
+    guid: 7a8904270332d674aa9a01340b42d489
+  - enabled: 1
+    path: Assets/MiniActividades/E27/E27.unity
+    guid: 7c744e236667aed499857ed725f45667
+  - enabled: 1
+    path: Assets/MiniActividades/E28/E28.unity
+    guid: 6d51a8b9edc9d584e9a073d65f9ff513
+  - enabled: 1
+    path: Assets/MiniActividades/E30/E30.unity
+    guid: 066fb1c1c152f254a916cd203fa8d7c7
+  - enabled: 1
+    path: Assets/MiniActividades/E31/E31.unity
+    guid: d446ea3b948ee754d802da35850ee87c
+  - enabled: 1
+    path: Assets/MiniActividades/E32/E32.unity
+    guid: 2e7c559d1a83c724a9ddcc45d03f60be
+  - enabled: 1
+    path: Assets/MiniActividades/E33/E33.unity
+    guid: 89cb03f86a51b6541883d091d3698fa5
+  - enabled: 1
+    path: Assets/MiniActividades/E34/E34.unity
+    guid: 104de6ca17464bb47a60a160eef361d1
+  - enabled: 1
+    path: Assets/MiniActividades/E36/E36.unity
+    guid: d398fba6e39ac77498bcace071ff640d
+  - enabled: 1
+    path: Assets/MiniActividades/E37/E37.unity
+    guid: 1dadc591195206e49808246758145d2f
+  - enabled: 1
+    path: Assets/MiniActividades/E38/E38.unity
+    guid: 855a4771cbd0c7c40b212985524a4212
+  - enabled: 1
+    path: Assets/MiniActividades/E39/E39.unity
+    guid: 9bacd39aa39484547aad8cc011c5542d
+  - enabled: 1
+    path: Assets/MiniActividades/E42/E42.unity
+    guid: 58a2fd92ba98fdd4ba0f32b84254ef70
+  - enabled: 1
+    path: Assets/MiniActividades/E46/E46.unity
+    guid: 1021df7bc1e3a85438c93f82baeb548e
+  - enabled: 1
+    path: Assets/MiniActividades/E49/E49.unity
+    guid: 03fca0da02f9db946adee4ef70604805
+  - enabled: 1
+    path: Assets/MiniActividades/E50/E50.unity
+    guid: 0c8dd8407201f534daf167eb0074b7be
+  - enabled: 1
+    path: Assets/MiniActividades/E52/E52.unity
+    guid: 6466cd72708f60740b326bc1fb65a5b4
+  - enabled: 1
+    path: Assets/MiniActividades/E54/E54.unity
+    guid: 5919780b050742148971fe285e599a20
+  - enabled: 1
+    path: Assets/MiniActividades/E58/E58.unity
+    guid: 648e7915809e28d4b8549589c138ca9b
+  - enabled: 1
+    path: Assets/MiniActividades/E59/E59.unity
+    guid: cbfac1f2c18467d4c8ba77c2a47d7493
+  - enabled: 1
+    path: Assets/MiniActividades/E60/E60.unity
+    guid: 71b233a73db2a9e4a81607b4069aa563
+  - enabled: 1
+    path: Assets/MiniActividades/E61/E61.unity
+    guid: 1f17ec148a301234e8f7b31b61346ec1
+  - enabled: 1
+    path: Assets/MiniActividades/E63/E63.unity
+    guid: 6a7bc08c73cf5664bad4343d84e6fc54
+  - enabled: 1
+    path: Assets/MiniActividades/E64/E64.unity
+    guid: 30e11927b3d263747aa0c1ae3c952106
+  - enabled: 1
+    path: Assets/MiniActividades/E65/E65.unity
+    guid: 8894175933eb1694eadbddf1bdc2b9c2
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0
